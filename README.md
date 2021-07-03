@@ -16,7 +16,7 @@ HOW TO START THIS PROJECT
 
 Step 1: Git clone the repository from the Github Link provided.
 
-Step 2: Git Command: git clone https://github.com/DeepanjanBose/Music_Player_Design_Lab
+Step 2: Git Command: git clone -b master https://github.com/DeepanjanBose/Music_Player_Design_Lab
 
 Step 3: Go to Terminal.
 
